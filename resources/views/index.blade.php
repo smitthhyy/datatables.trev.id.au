@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <meta name="Access-Control-Allow-Origin" content="http://datatable.iotau.io/">
+    <meta name="Access-Control-Allow-Origin" content="https://datatables.trev.id.au/">
     <title>Datatable test - Addresses</title>
 
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
@@ -267,4 +267,3 @@
         })
     })
 </script>
-
